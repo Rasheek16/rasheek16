@@ -59,5 +59,3 @@
 
 > “Not just reading systems books — building the tools inside them.”  
 > — Rasheek
-
-</style>
