@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=System+Programming+Enthusiast;C+Compiler+Author;Quantum+AI+Researcher;DevOps+Engineer+in+the+Making" alt="Typing animation" style="animation: fadeIn 2s ease-out;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=System+Programming+Enthusiast;C+Compiler+Author;Quantum+AI+Researcher;Full+stack +developer" alt="Typing animation" style="animation: fadeIn 2s ease-out;" />
 </p>
 
 ---
