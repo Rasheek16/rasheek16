@@ -45,7 +45,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center" style="animation: fadeInUp 2s ease-out;">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nextjs,nodejs,nestjs,docker,kubernetes,git,github,bash,linux,aws,gcp,terraform,ansible,jenkins,mysql,mongodb,html,css,tailwind,java,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nextjs,nodejs,nestjs,docker,kubernetes,git,github,bash,linux,aws,gcp,terraform,ansible,jenkins,mysql,mongodb,html,css,tailwind,java,tensorflow,pytorch,terraform,jenkins,ansible,grafana,loki,prometheus" />
 </p>
 
 ---
