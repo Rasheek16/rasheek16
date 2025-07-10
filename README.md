@@ -50,6 +50,16 @@
 
 ---
 
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rasheek16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheek16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheek16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+
 ### 📫 Let’s Connect
 
 📧 Email: [sallanrasheek@gmail.com](mailto:sallanrasheek@gmail.com)  
